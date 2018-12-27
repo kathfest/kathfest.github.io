@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+	@import url('https://fonts.googleapis.com/css?family=Montserrat');
+a
+{
+	text-decoration:none;
+}
+
+.bg-light
+{
+	background:white !important;
+	height:100px;
+}
+.navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link,.navbar-light .navbar-nav .nav-link
+{
+	color:black;
+	font-size:20px;
+	padding-left:70px;
+	font-weight:bold;
+	 	font-family: 'Montserrat', sans-serif;
+
+}
+.navbar-brand
+{
+	padding-right:180px;
+}
+ .navbar-light .navbar-nav .nav-link.active,.navbar-light .navbar-nav .active>.nav-link
+ {
+	 color:orange;
+ }
+ .navbar-light .navbar-nav .nav-link:hover
+ {
+	 color:#63c6f0;
+ }
+
+ .banner-blur
+ {
+	 background:rgba(0,0,153,0.6);
+	 height:200px;
+ }
+ .about-kathfest
+ {
+	 height:700px;
+	 width:100%;
+
+ }
+.c1
+{
+	margin-bottom:60px;
+}
+ .c1 .r1 
+ {
+	 margin-top:50px;
+	 	font-weight:bold;
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:50px;
+
+	
+ }
+ .c1 .r2 .col1
+{
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:28px;
+}
+ .col1 span
+ {
+	 color:#313187 ;
+	 font-weight:bold;
+ }
+.r3
+{
+	margin-top:50px;
+}
+.maps
+{
+	background:#313187;
+	height:550px;
+}
+.r4
+{
+	margin-top:50px;
+	 	font-weight:bold;
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:50px;
+	color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+
+}
+.r5
+{
+	font-weight:500;
+	font-family: 'Montserrat', sans-serif;
+	font-size:24px;
+	color:white;
+}
+.r5 span
+{
+	padding-top:100px;
+	font-size:34px;
+}
+.footer
+{
+	color:white;
+	padding-top:10px;
+	background:#313187;
+	height:60px;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.col3
+{
+		font-weight:500;
+	font-family: 'Montserrat', sans-serif;
+	font-size:24px;
+	color:black;
+}
+.r6
+{
+	margin-top:80px;
+}
+.col3 span
+{
+	color:#313187;
+	font-weight:bold;
+}
+.comitee
+{
+	background:#313187;
+	height:1850px;
+	margin-bottom:2px;
+
+}
+
+	
+.text
+{
+	
+	font-family: 'Montserrat', sans-serif;
+	font-size:18px;
+	color:white;
+}
+.r7
+
+{
+	padding-bottom:30px;
+}
+.text a
+{
+	color:white;
+	font-size:22px;
+}
+.display-4
+
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight:bold;
+font-size:36px;
+}
+
+.lead
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight:200;
+font-size:22px;
+}
+.btn-primary
+{
+	background:#313187;
+	color:white;
+		font-family: 'Montserrat', sans-serif;
+	font-weight:200;
+font-size:22px;
+}
+.btn-primary:hover
+{
+	color:white;
+	background:orange;
+	border:none;
+}
+.partners
+{
+	height:760px;
+	margin-top:50px;
+}
+.c2 .r7
+{
+	 	font-weight:bold;
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:30px;
+	
+}
+.r8
+{
+
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:22px;
+	border:1px solid black;
+
+}
+.r9
+{
+	margin-top:40px;
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:22px;
+	margin-bottom:40px;
+	
+}
+.r9 a
+{
+	 	font-family: 'Montserrat', sans-serif;
+	font-size:28px;
+	margin-left:20px;
+	color:black;
+}
+	
+.c3
+{
+	border-right:1px solid black;
+}
+.r9 span
+{
+	font-weight:bold;
+	color:#313187;
+}
+.contact
+{
+	height:810px;
+}
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]
+{
+	display:none;
+}
