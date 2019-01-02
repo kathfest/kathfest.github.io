@@ -189,10 +189,19 @@ font-size:22px;
 	background:orange;
 	border:none;
 }
-.partners
+.community-partners
+{
+    height: 430px;
+    margin-top: 50px;
+    color: white;
+    background: #0e5f8e;
+}
+
+.sponsors
 {
 	height:760px;
 	margin-top:50px;
+	
 }
 .c2 .r7
 {
